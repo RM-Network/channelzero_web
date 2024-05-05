@@ -1,2 +1,3 @@
-# channelzero_web
-The website for Channel Zero
+# channelzero.net
+## The code neccesary for hosting the website for Channel Zero.
+Code written by Ron Halton
